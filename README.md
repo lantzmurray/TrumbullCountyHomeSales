@@ -21,4 +21,4 @@ This project uses XGBoost + Optuna to predict single-family home sale prices in 
 ## See it in Action##
 https://huggingface.co/spaces/lantzmurray/trumbull-ohio-home-predictor
 
-![App Preview](./trumbullsalesapp.png)
+![App Preview](./TrumbullSalesApp.PNG)
