@@ -17,3 +17,8 @@ This project uses XGBoost + Optuna to predict single-family home sale prices in 
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+## See it in Action##
+https://huggingface.co/spaces/lantzmurray/trumbull-ohio-home-predictor
+
+![App Preview](./trumbullsalesapp.png)
